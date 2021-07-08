@@ -25,9 +25,7 @@ You can see set of mostly used technologies and frameworks below:
 
 ###  Contact info
 
-You can check out my CV [here](https://cloud.feather.cloudns.cl/s/TzQnmFA2DwTqCmN)
-
-Also you can contact me via:
+You can contact me via:
 
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:tkorghebin@gmail.com)](mailto:tkorghebin@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&link=https://t.me/littlecoin)](https://t.me/littlecoin)
