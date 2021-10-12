@@ -27,6 +27,6 @@ You can see set of mostly used technologies and frameworks below:
 You can contact me via:
 
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:tkorghebin@gmail.com)](mailto:tkorghebin@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&link=https://t.me/littlecoin)](https://t.me/littlecoin)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&link=https://t.me/littlecoin)](https://t.me/tiny_coin)
 
  
