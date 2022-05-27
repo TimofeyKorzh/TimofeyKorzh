@@ -18,7 +18,7 @@ You can see set of mostly used technologies and frameworks below:
 
 ### Projects
 
-* [Front](https://github.com/TimofeyKorzh/SBWriterFront) and [Back](https://github.com/TimofeyKorzh/SBWBackend) for [finetuned on My Little Pony fanfiction middle GPT-2](https://sweetie.tech/)
+* [Front](https://github.com/TimofeyKorzh/SBWriterFront) and [Back](https://github.com/TimofeyKorzh/SBWBackend) for [finetuned on My Little Pony fanfiction middle GPT-2](https://pony.monetka.name/)
 * [AIvsBIAS](https://github.com/mmkuznecov/AIvsBIAS) - little research on removing gender bias for Word2Vec NLP models.
 * [Queue Analysis](https://github.com/mmkuznecov/queue_analysis) - simple deeplearning solution for queue detection and control
 
